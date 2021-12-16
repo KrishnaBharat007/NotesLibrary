@@ -1,6 +1,6 @@
 # NotesLibrary
 Created a repository for creating updating and storing notes.
-1.	Introduction
+1.	**Introduction**
 This assignment is about storing and maintaining Notes created by user. Named this stored notes in a file called MyNotesLibrary.
 User will be able to perform various actions in this process as below:
 	Create Notes
@@ -12,7 +12,7 @@ User will be able to perform various actions in this process as below:
 	Load Notes to memory from MyNotesLibrary.txt
 A menu control is created for the user to interact with the program and perform required action.
 
-2.	Description
+2.	**Description**
 In order to make it user friendly, we have created Classes which can enable us to code using Object Oriented Programming.
 Classes Created:
 	Main
@@ -49,7 +49,7 @@ Additional Validations and Features incorporated:
 	While displaying the overall details of notes created a prompt is created to decide whether user wishes to view all the notes or not.
 	In some required places sleep function is used to provide a small time gap for the user to view next options.
 
-3.	User Manual
+3.	**User Manual**
 	Execute the main function ( Main.main() )to start with program.
 	Menu options will be displayed from 1-9 and 0, to let user decide what action is to be performed.
 	User Input 1: Program prompts to allow user to give title, text, status of completion of notes if it is complete or incomplete. If status is complete, then it automatically considers current date as completion date.
